@@ -3,7 +3,7 @@
 Uma adaptação mobile do famoso jogo Balatro, desenvolvida com React Native e Expo. Intelatro é um jogo de cartas estratégico onde você deve construir a melhor mão possível em 10 rodadas, escolhendo cartas com diferentes efeitos para maximizar sua pontuação.
 
 ## Demonstração
-
+# CLIQUE NA IMAGEM 👇
 [![Demonstração do Jogo](balatro/assets/icon.png)](https://youtube.com/shorts/3MCPPfg-g10?feature=share)
 
 
