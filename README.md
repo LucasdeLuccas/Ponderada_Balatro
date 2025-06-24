@@ -4,7 +4,7 @@ Uma adaptação mobile do famoso jogo Balatro, desenvolvida com React Native e E
 
 ## Demonstração
 # CLIQUE NA IMAGEM 👇
-[![Demonstração do Jogo](balatro/assets/icon.png)](https://youtube.com/shorts/3MCPPfg-g10?feature=share)
+[![Demonstração do Jogo](balatro/assets/icon.png)](https://drive.google.com/file/d/10oojBTVid74vTqSTvjHms6DAkpd8q6Fk/view?usp=sharing)
 
 
 ## 📱 Sobre o Jogo
